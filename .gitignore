@@ -1,0 +1,8 @@
+# ignore pytest reports
+pytest_html_report.html
+output.json
+archive
+
+# ignore pytest_cache
+__pycache__/
+.pytest_cache
